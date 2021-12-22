@@ -1,1 +1,1 @@
-# fire_detectio
+# fire_detection
